@@ -1,4 +1,4 @@
-# Data Science Interview Questions
+# Python Interview Questions
 
 Here i will add all the best websites for interview questions in Python.
 
